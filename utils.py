@@ -1,8 +1,8 @@
-from os.path    import join
-from os         import remove
+from os.path import join
+from os import remove
 
-from discord    import HTTPException
-from emoji      import emojize
+from discord import HTTPException
+from emoji import emojize
 
 import settings
 
